@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "7WD1.png"
+  avatar           : "images/7WD1.png"
   name             : "Wen-Dong Jiang (姜文栋)"
   pronouns         : # example: "she/her"  
   bio              : "Tamkang University"
