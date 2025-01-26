@@ -19,8 +19,8 @@ Wen-Dong Jiang (graduate student member, IEEE) received his B.S. degree from the
 
 4. Lee, Y.-S., Yen, S.-J., Jiang, W., Chen, J., & Chang, C.-Y., "Not just explain but explain well: Interpretable machine learning based on ensemble trees," *SSRN*, 2024, [https://ssrn.com/abstract=4854192](https://ssrn.com/abstract=4854192) or [http://dx.doi.org/10.2139/ssrn.4854192](http://dx.doi.org/10.2139/ssrn.4854192).
 
-5. W.-D. Jiang, Y.-S. Lee, C.-Y. Chang, M.-Y. Su, and D. S. Roy, "Focusing on Interpretability in Multimodal Systems for Violence Detection," *SSRN*, 2024, [https://ssrn.com/abstract=4981368](https://ssrn.com/abstract=4981368) or [http://dx.doi.org/10.2139/ssrn.4981368](http://dx.doi.org/10.2139/ssrn.4981368).
+5. W.-D. Jiang, Y.-S. Lee, C.-Y. Chang, M.-Y. Su, and D. S. Roy, "Focusing on Interpretability in Multimodal Systems for Violence Detection," *SSRN*, 2024, [https://ssrn.com/abstract=4981368](https://ssrn.com/abstract=4981368).
 
-6. W.-D. Jiang, C.-Y. Chang, and D. S. Roy, "Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT," *arXiv*, 2025, [https://doi.org/10.48550/arXiv.2501.06224](https://doi.org/10.48550/arXiv.2501.06224) (or [arXiv:2501.06224v1](https://arxiv.org/abs/2501.06224v1) for this version).
+6. W.-D. Jiang, C.-Y. Chang, and D. S. Roy, "Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT," *arXiv*, 2025, [https://doi.org/10.48550/arXiv.2501.06224](https://doi.org/10.48550/arXiv.2501.06224).
 
 
