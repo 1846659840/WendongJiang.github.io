@@ -12,7 +12,7 @@ title                    : "Wen-Dong Jian Home page"
 title_separator          : "-"
 name                     : &name "Wen-Dong Jiang"
 description              : &description "Student member,IEEE"
-url                      : https://1846659840.github.io
+url                      : https://academicpages.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "1846659840/WendongJiang.github.io"
 
