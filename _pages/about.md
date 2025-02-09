@@ -23,6 +23,4 @@ Wen-Dong Jiang (graduate student member, IEEE) received his B.S. degree from the
 
 6. W.-D. Jiang, C.-Y. Chang, and D. S. Roy, "Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT," *arXiv*, 2025, [https://doi.org/10.48550/arXiv.2501.06224](https://doi.org/10.48550/arXiv.2501.06224).
 
-6. W.-D. Jiang, C.-Y. Chang, and D. S. Roy, "Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT," *arXiv*, 2025, [https://doi.org/10.48550/arXiv.2501.06224](https://doi.org/10.48550/arXiv.2501.06224).
-
 7. Yue-Shi Lee, Show-Jane Yen, Wendong Jiang, Jiyuan Chen and Chih-Yung Chang, "Illuminating the Black Box: An Interpretable Machine Learning Based on Ensemble Trees," Expert Systems with Applications (ESWA), April 2025. (SCI Impact Factor: 7.5; OPERATIONS RESEARCH & MANAGEMENT SCIENCE: 6/106=5.66%)
